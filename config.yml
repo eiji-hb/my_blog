@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://optimistic-kalam-0b706d.netlify.app/"
 title: techBlog
 paginate: 5
 theme: PaperMod
