@@ -1,5 +1,5 @@
 ---
-title: "Django_init"
+title: "Django-practice"
 date: 2021-12-20T22:55:05+09:00
 draft: true
 ---
@@ -20,8 +20,8 @@ draft: true
 
 プロジェクト名をconfigとして設定ディレクトリにします。
 ```
-mkdir mysite
-cd mysite
+mkdir django-practice
+cd django-practice
 django-admin startproject config .
 ```
 ### テンプレート
