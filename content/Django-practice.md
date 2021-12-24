@@ -24,6 +24,20 @@ mkdir django-practice
 cd django-practice
 django-admin startproject config .
 ```
+## アプリ
+アプリの作成
+アプリにないにもurl.py
+```
+python3 manage.py startapp todo
+
+```
 ### テンプレート
+django-practice直下にテンプレートディレクトリを作ります。
+```
+mkdir templates
+```
 
 ### static
+```
+mkdir static
+```
