@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/tags/another-test/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/categories/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/categories/category-1/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/categories/category-2/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/ja/hoge/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/ja/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/tags/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://optimistic-kalam-0b706d.netlify.app/tags/test/</loc>
+    <lastmod>2017-08-21T00:00:00+00:00</lastmod>
+  </url>
+</urlset>

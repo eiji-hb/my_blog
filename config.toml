@@ -1,6 +1,7 @@
 baseURL = 'https://optimistic-kalam-0b706d.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+DefaultContentLanguage = "ja"
+languageCode = "ja-JP"
+title = 'My blog'
 theme = "mainroad"
 
 paginate = "10" # Number of posts per page
@@ -8,9 +9,9 @@ disqusShortname = "" # Enable Disqus comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author] # Used in authorbox
-  name = "John Doe"
-  bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
-  avatar = "img/avatar.png"
+  name = "Eiji Sugiura"
+  bio = "Web エンジニア"
+  avatar = "img/me.jpg"
 
 [Params]
   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
@@ -45,7 +46,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+#   image = "img/placeholder.png" # Logo image. Path relative to "static"
   title = "Mainroad" # Logo title, otherwise will use site title
   subtitle = "Just another site" # Logo subtitle
 
@@ -87,3 +88,18 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 [[Params.widgets.social.custom]]
   title = "My Home Page"
   url = "https://example.com"
+  
+[[Menus.main]]
+  Name = "トップ"
+  URL = "/"
+  weight = 1
+
+[[Menus.main]]
+  Name = "カテゴリー"
+  URL = "/categories/"
+  weight = 2
+
+[[Menus.main]]
+  Name = "タグ"
+  URL = "/tags/"
+  weight = 3
